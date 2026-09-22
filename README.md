@@ -1,4 +1,4 @@
-# TeleMeet - Plataforma de Videoconferencias en Django (Estilo Google Meet)
+# TeleConnect - Plataforma de Videoconferencias en Django (Estilo Google Meet)
 
 Aplicación web integral para videoconferencias, gestión de sesiones virtuales, control de conexiones/periféricos e integración con servidor seguro por medio de VPN.
 
