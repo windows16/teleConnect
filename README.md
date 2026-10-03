@@ -180,38 +180,6 @@ Las variables principales son `VPN_SERVER_IP`, `VPN_SUBNET_PREFIX`, `VPN_SERVER_
 
 ---
 
-## 📁 Estructura del proyecto
-
-```text
-.
-├── core/
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py
-│   └── wsgi.py
-├── meetings/
-│   ├── migrations/
-│   ├── forms.py
-│   ├── models.py
-│   ├── supabase_auth.py
-│   ├── urls.py
-│   ├── views.py
-│   └── vpn_service.py
-├── static/
-│   ├── css/
-│   └── js/
-├── templates/
-│   ├── auth/
-│   ├── components/
-│   └── meetings/
-├── manage.py
-├── requirements.txt
-├── .env.example
-└── DEPLOYMENT.md
-```
-
----
-
 ## 🛠️ Requisitos e instalación
 
 1. Instalar dependencias:
