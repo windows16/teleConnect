@@ -6,7 +6,7 @@ TeleConnect es una plataforma web de videoconferencias inspirada en Google Meet.
 
 ---
 
-## 🏗️ Arquitectura del backend
+## Arquitectura 
 
 ### Vista general
 
